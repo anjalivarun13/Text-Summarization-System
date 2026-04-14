@@ -160,6 +160,7 @@ source venv/bin/activate  # Mac/Linux
 pip install -r requirements.txt
 python app.py
 ```
+---
 
 ## 🔮 Future Improvements
 - Add multi-language summarization
@@ -168,9 +169,12 @@ python app.py
 - Optimize inference speed
 - Deploy using FastAPI + Docker
 
+---
+
 ## 👩‍💻 Author
 
 **Anjali Varun**
+
 GitHub: https://github.com/anjalivarun13
 
 LinkedIn: https://www.linkedin.com/in/anjali-varun/
